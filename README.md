@@ -1,7 +1,7 @@
 ## StarThrive Business Manager
 *in Java (backend and frontend)*
 
-‣
+&nbsp;
 
 ### 📋 Project Description
 ---
@@ -26,7 +26,7 @@ Grocery category companies can be fruit shops or markets:
 
 Since one of the main objectives of the StarThrive company is managing annual expenses and revenues, there are different ways for calculating the annual expenses and revenues of each category.
 
----
+&nbsp;
 
 *Features*
 
@@ -47,6 +47,8 @@ The application developed for a StarThrive employee, should allow the following 
 - Display the requested listings and indicators
 
 The application should be provided with a text file (starthrive.txt) containing data for at least 5 companies of each category. Upon startup, the application should load company data from the object file (starthrive.dat), and if it doesn't exist, load the data from the text file (starthrive.txt). It should also automatically save company changes to the object file.
+
+&nbsp;
 
 ---
 
